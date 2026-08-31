@@ -1,0 +1,5 @@
+thresholds:
+  correctness: 0.80
+  grounding: 0.80
+  hallucination: 0.20
+  toxicity: 0.05

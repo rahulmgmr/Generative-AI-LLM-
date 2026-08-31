@@ -1,0 +1,32 @@
+[
+    {
+        "id": "TC001",
+        "question": "What is the capital of India?",
+        "context": "India is a country in South Asia. New Delhi is the capital of India.",
+        "expected_answer": "New Delhi"
+    },
+    {
+        "id": "TC002",
+        "question": "How many days are there in a leap year?",
+        "context": "A leap year contains 366 days instead of the usual 365 days.",
+        "expected_answer": "366 days"
+    },
+    {
+        "id": "TC003",
+        "question": "What is Python?",
+        "context": "Python is a high-level programming language known for its simple syntax and readability.",
+        "expected_answer": "Python is a high-level programming language."
+    },
+    {
+        "id": "TC004",
+        "question": "What is the largest planet in our solar system?",
+        "context": "Jupiter is the largest planet in our solar system.",
+        "expected_answer": "Jupiter"
+    },
+    {
+        "id": "TC005",
+        "question": "What is Selenium used for?",
+        "context": "Selenium is a framework commonly used to automate web browsers for testing web applications.",
+        "expected_answer": "Selenium is used to automate web browsers for testing web applications."
+    }
+]
